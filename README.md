@@ -13,13 +13,14 @@ Este projeto foi desenvolvido como parte da GS2 da disciplina Android Kotlin Dev
 ## A aplicação contém:
 
 - `/login` → Tela inicial de autenticação
-![Screenshot_20251118_094954.png](../../Pictures/Screenshots/Screenshot_20251118_094954.png)
+<img width="1080" height="2340" alt="Screenshot_20251118_094954" src="https://github.com/user-attachments/assets/fa20b778-1051-47fa-913d-9f3b828e313a" />
 - `/menu` → Menu principal
-![Screenshot_20251118_095151.png](../../Pictures/Screenshots/Screenshot_20251118_095151.png)
+  <img width="1080" height="2340" alt="Screenshot_20251118_095151" src="https://github.com/user-attachments/assets/fbbc50ed-e33e-41e1-ac65-ea4b08a75ade" />
 - `/imc` → Calculadora de IMC
-![Screenshot_20251118_095244.png](../../Pictures/Screenshots/Screenshot_20251118_095244.png)
+  <img width="1080" height="2340" alt="Screenshot_20251118_095244" src="https://github.com/user-attachments/assets/d2b47775-dba9-4f1d-8fa6-49b9a699a47a" />
 - `/equipe` → Tela com os integrantes
-![Screenshot_20251118_095030.png](../../Pictures/Screenshots/Screenshot_20251118_095030.png)
+  <img width="1080" height="2340" alt="Screenshot_20251118_095030" src="https://github.com/user-attachments/assets/26f3af8b-9638-441b-8a27-f2677cd2901a" />
+  
 ---
 
 ## Tela de Login
