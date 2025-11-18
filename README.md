@@ -13,13 +13,13 @@ Este projeto foi desenvolvido como parte da GS2 da disciplina Android Kotlin Dev
 ## A aplicação contém:
 
 - `/login` → Tela inicial de autenticação
-
+![Screenshot_20251118_094954.png](../../Pictures/Screenshots/Screenshot_20251118_094954.png)
 - `/menu` → Menu principal
-
+![Screenshot_20251118_095151.png](../../Pictures/Screenshots/Screenshot_20251118_095151.png)
 - `/imc` → Calculadora de IMC
-
+![Screenshot_20251118_095244.png](../../Pictures/Screenshots/Screenshot_20251118_095244.png)
 - `/equipe` → Tela com os integrantes
-
+![Screenshot_20251118_095030.png](../../Pictures/Screenshots/Screenshot_20251118_095030.png)
 ---
 
 ## Tela de Login
